@@ -12,10 +12,6 @@ Control your mouse cursor using hand gestures via your webcam. This Python appli
 - **Drag Mode**: Drag objects by keeping pinky up after clicking
 - **Visual Feedback**: On-screen indicators show cursor state, click progress, and mode status
 
-## Demo
-
-![Mouse Controller Demo](demo.gif)
-
 ## Installation
 
 ### Prerequisites
